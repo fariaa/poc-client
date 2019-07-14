@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 1%
+}
+.input {
+}
+.label {
+    width: 10%;
+}
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-top: 2%;
+}
+.list{
+    margin-top: 1%;
+}
+.button {
+    margin-right: 1%
+}
